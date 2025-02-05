@@ -1,5 +1,5 @@
 <!--
-* Graph-Based Learning from Demonstration Framework
+* STORM: A Graph-Based Learning from Demonstration Framework
 *
 * Copyright (c) 2024 Natalia Quiroga Perez. All rights reserved.
 *
