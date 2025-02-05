@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected">
-<node id="(-60, 100, 140)"/>
-<node id="(110.0, 140.0, 170.0)"/>
-<node id="(50.0, -170.0, 360.0)"/>
-<node id="(0.0, -160.0, 330.0)"/>
-</graph></graphml>
